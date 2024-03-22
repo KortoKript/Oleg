@@ -1,8 +1,8 @@
 <head>
     <h2>КиноНеПоиск</h2>
     <link rel="stylesheet" type="text/css" href="style.css"/>
-    <div>   
-    
+    <div class = "post">   
+        <img decoding="async" height="230" src="https://i.postimg.cc/BvjY3YNq/1705258262921pbyuw70j.png" alt="Card image cap">
     </div>
     
 </head>
