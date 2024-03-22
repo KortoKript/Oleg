@@ -6,10 +6,27 @@ main {
     padding: 10px;
     background-color: silver;
     }
-.post {
+.j {
     background-color: white;
     padding: 10px;
     border-radius: 30px;
     margin-bottom: 0px;
       display: flex;
-    }
+}
+
+.par {
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+      display: flex;
+}
+
+.kyh {
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+      display: flex;
+}
+
