@@ -1,4 +1,8 @@
-head {
+html {
+    background-color: cyan;
+}
+
+main {
     padding: 10px;
     background-color: silver;
     }
