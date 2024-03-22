@@ -5,7 +5,6 @@ html {
 main {
     padding: 10px;
     background-color: silver;
-    text-align: center;
 }
 .post {
     background-color: white;
@@ -20,3 +19,6 @@ main {
     margin: 10px;
 }
 
+.center {
+    text-align: center;
+}
