@@ -1,8 +1,15 @@
-<head>
-    <h2>КиноНеПоиск</h2>
-    <link rel="stylesheet" type="text/css" href="style.css"/>
-    <div class = "post">   
-        <img decoding="async" height="230" src="https://i.postimg.cc/BvjY3YNq/1705258262921pbyuw70j.png" alt="Card image cap">
-    </div>
+<html>  
+    <head>
+        <h2>КиноНеПоиск</h2>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
     
-</head>
+            <img decoding="async" height="230" src="https://i.postimg.cc/6QGjKxPc/image.png" alt="Card image cap">
+        
+    </head>
+    <main>
+        <div class = "post">
+
+        </div>
+    </main>
+</html>
+
