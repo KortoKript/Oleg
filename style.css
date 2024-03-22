@@ -6,19 +6,16 @@ main {
     padding: 10px;
     background-color: silver;
 }
+
 .post {
     background-color: white;
     padding: 10px;
     border-radius: 30px;
     margin-bottom: 0px;
+    margin-top: 10px;
       display: flex;
 }
 
-
 .post img {
     margin: 10px;
-}
-
-.center {
-    text-align: center;
 }
