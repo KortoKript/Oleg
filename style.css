@@ -30,3 +30,7 @@ main {
       display: flex;
 }
 
+.post img {
+    margin: 10px;
+}
+
